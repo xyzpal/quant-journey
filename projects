@@ -1,0 +1,14 @@
+quant-journey/
+├── README.md               
+├── notes/                  
+│   └── math_notes.md
+└── projects/               
+    ├── 01_dice_simulation/
+    │   ├── dice_simulation.ipynb
+    │   └── README.md
+    ├── 02_coin_toss/
+    │   ├── toss_simulation.ipynb
+    │   └── README.md
+    └── 03_montecarlo/
+        ├── simulation.ipynb
+        └── README.md
